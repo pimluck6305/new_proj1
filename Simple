@@ -1,6 +1,10 @@
 public class Simple{
+  private String name;
+  public String getName9(){
+    return name;
+  }
   public Simple(){
-
+  
   }
 
 }
