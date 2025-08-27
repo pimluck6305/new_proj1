@@ -1,0 +1,222 @@
+[
+  {
+    "id": "TURBO-A-P-S-",
+    "name": "TURBO A.P.S-09 SAIJO DENKI",
+    "brand": "Saijo Denki",
+    "btu": 9563,
+    "price": 13300,
+    "type": "split",
+    "image": "assets/TURBO-A-P-S-.svg",
+    "source": ""
+  },
+  {
+    "id": "TURBO-A-P-S-",
+    "name": "TURBO A.P.S-12 SAIJO DENKI",
+    "brand": "Saijo Denki",
+    "btu": 12770,
+    "price": 14000,
+    "type": "split",
+    "image": "assets/TURBO-A-P-S-.svg",
+    "source": ""
+  },
+  {
+    "id": "TURBO-A-P-S-",
+    "name": "TURBO A.P.S-18 SAIJO DENKI",
+    "brand": "Saijo Denki",
+    "btu": 18905,
+    "price": 19500,
+    "type": "split",
+    "image": "assets/TURBO-A-P-S-.svg",
+    "source": ""
+  },
+  {
+    "id": "TURBO-A-P-S-",
+    "name": "TURBO A.P.S-25 SAIJO DENKI",
+    "brand": "Saijo Denki",
+    "btu": 25498,
+    "price": 25800,
+    "type": "split",
+    "image": "assets/TURBO-A-P-S-.svg",
+    "source": ""
+  },
+  {
+    "id": "TURBO-A-P-S-",
+    "name": "TURBO A.P.S-30 SAIJO DENKI",
+    "brand": "Saijo Denki",
+    "btu": 25498,
+    "price": 29500,
+    "type": "split",
+    "image": "assets/TURBO-A-P-S-.svg",
+    "source": ""
+  },
+  {
+    "id": "TURBO-A-P-S-",
+    "name": "TURBO A.P.S-30T SAIJO DENKI",
+    "brand": "Saijo Denki",
+    "btu": 30583,
+    "price": 31900,
+    "type": "split",
+    "image": "assets/TURBO-A-P-S-.svg",
+    "source": ""
+  },
+  {
+    "id": "TURBO-A-P-S-",
+    "name": "TURBO A.P.S-36 SAIJO DENKI",
+    "brand": "Saijo Denki",
+    "btu": 37698,
+    "price": 40500,
+    "type": "split",
+    "image": "assets/TURBO-A-P-S-.svg",
+    "source": ""
+  },
+  {
+    "id": "TURBO-A-P-S-",
+    "name": "TURBO A.P.S-36T SAIJO DENKI",
+    "brand": "Saijo Denki",
+    "btu": 36269,
+    "price": 44900,
+    "type": "split",
+    "image": "assets/TURBO-A-P-S-.svg",
+    "source": ""
+  },
+  {
+    "id": "TURBO-A-P-S-",
+    "name": "TURBO A.P.S-40 SAIJO DENKI",
+    "brand": "Saijo Denki",
+    "btu": 40450,
+    "price": 43000,
+    "type": "split",
+    "image": "assets/TURBO-A-P-S-.svg",
+    "source": ""
+  },
+  {
+    "id": "TURBO-A-P-S-",
+    "name": "TURBO A.P.S-40T SAIJO DENKI",
+    "brand": "Saijo Denki",
+    "btu": 40262,
+    "price": 46300,
+    "type": "split",
+    "image": "assets/TURBO-A-P-S-.svg",
+    "source": ""
+  },
+  {
+    "id": "SMART-COOL-S",
+    "name": "SMART COOL SWG-09",
+    "brand": "Smart Cool",
+    "btu": 9563,
+    "price": 11500,
+    "type": "split",
+    "image": "assets/SMART-COOL-S.svg",
+    "source": ""
+  },
+  {
+    "id": "SMART-COOL-S",
+    "name": "SMART COOL SWG-12",
+    "brand": "Smart Cool",
+    "btu": 12770,
+    "price": 11700,
+    "type": "split",
+    "image": "assets/SMART-COOL-S.svg",
+    "source": ""
+  },
+  {
+    "id": "SMART-COOL-S",
+    "name": "SMART COOL SWG-18",
+    "brand": "Smart Cool",
+    "btu": 18905,
+    "price": 15900,
+    "type": "split",
+    "image": "assets/SMART-COOL-S.svg",
+    "source": ""
+  },
+  {
+    "id": "SMART-COOL-S",
+    "name": "SMART COOL SWG-25",
+    "brand": "Smart Cool",
+    "btu": 25498,
+    "price": 20500,
+    "type": "split",
+    "image": "assets/SMART-COOL-S.svg",
+    "source": ""
+  },
+  {
+    "id": "INVERTER-SUR",
+    "name": "INVERTER SURE-10",
+    "brand": "Saijo Denki",
+    "btu": 9588,
+    "price": 13900,
+    "type": "split",
+    "image": "assets/INVERTER-SUR.svg",
+    "source": ""
+  },
+  {
+    "id": "INVERTER-SUR",
+    "name": "INVERTER SURE-12",
+    "brand": "Saijo Denki",
+    "btu": 12850,
+    "price": 14500,
+    "type": "split",
+    "image": "assets/INVERTER-SUR.svg",
+    "source": ""
+  },
+  {
+    "id": "INVERTER-SUR",
+    "name": "INVERTER SURE-18",
+    "brand": "Saijo Denki",
+    "btu": 18721,
+    "price": 21700,
+    "type": "split",
+    "image": "assets/INVERTER-SUR.svg",
+    "source": ""
+  },
+  {
+    "id": "INVERTER-SUR",
+    "name": "INVERTER SURE-25",
+    "brand": "Saijo Denki",
+    "btu": 25425,
+    "price": 29000,
+    "type": "split",
+    "image": "assets/INVERTER-SUR.svg",
+    "source": ""
+  },
+  {
+    "id": "INVERTER-SUR",
+    "name": "INVERTER SURE-30",
+    "brand": "Saijo Denki",
+    "btu": 30652,
+    "price": 39300,
+    "type": "split",
+    "image": "assets/INVERTER-SUR.svg",
+    "source": ""
+  },
+  {
+    "id": "INVERTER-SUR",
+    "name": "INVERTER SURE-30",
+    "brand": "Saijo Denki",
+    "btu": 30000,
+    "price": 40000,
+    "type": "split",
+    "image": "assets/INVERTER-SUR.svg",
+    "source": ""
+  },
+  {
+    "id": "INVERTER-SUR",
+    "name": "INVERTER SURE-36",
+    "brand": "Saijo Denki",
+    "btu": 36451,
+    "price": 43300,
+    "type": "split",
+    "image": "assets/INVERTER-SUR.svg",
+    "source": ""
+  },
+  {
+    "id": "INVERTER-SUR",
+    "name": "INVERTER SURE-36",
+    "brand": "Saijo Denki",
+    "btu": 36100,
+    "price": 46500,
+    "type": "split",
+    "image": "assets/INVERTER-SUR.svg",
+    "source": ""
+  }
+]

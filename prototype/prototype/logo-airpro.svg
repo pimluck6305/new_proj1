@@ -1,0 +1,7 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="60" viewBox="0 0 240 60">
+  <rect x="0" y="0" width="240" height="60" fill="white" />
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="10" y="38" font-size="28" font-weight="700">Air Pro <tspan fill="#3b82f6">Online</tspan></text>
+  </g>
+</svg>
